@@ -1,0 +1,28 @@
+.fashion_store{
+    height: 70px;
+    width: 100%;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px ;
+    
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.item img{
+    height: 80px;
+    width: 80px;
+    margin: 15px 0;
+    
+}
+.item h3{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
